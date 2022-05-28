@@ -1,0 +1,5 @@
+build_msvc
+build_mingw
+Thumbs.db
+Thumbs.db:encryptable
+cryptopp
